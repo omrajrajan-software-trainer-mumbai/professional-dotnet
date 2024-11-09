@@ -3,7 +3,7 @@
 
 namespace SimpleClass_01
 {
-    // Defining a class named "Car"
+    // Defining a class named "Car" 
     public class Car
     {
         // Fields: Data that the Car holds
