@@ -12,3 +12,4 @@ C:\Users\Administrator\source\repos\professional-dotnet\chapter_02\SimpleClass_0
 C:\Users\Administrator\source\repos\professional-dotnet\chapter_02\SimpleClass_01\obj\Debug\net8.0\SimpleClass_01.pdb
 C:\Users\Administrator\source\repos\professional-dotnet\chapter_02\SimpleClass_01\obj\Debug\net8.0\SimpleClass_01.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\professional-dotnet\chapter_02\SimpleClass_01\obj\Debug\net8.0\ref\SimpleClass_01.dll
+C:\Users\Administrator\source\repos\professional-dotnet\chapter_02\SimpleClass_01\obj\Debug\net8.0\SimpleClass_01.sourcelink.json
