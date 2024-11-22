@@ -1,0 +1,15 @@
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\bin\Debug\net8.0\GetValueOrDefault().exe
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\bin\Debug\net8.0\GetValueOrDefault().deps.json
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\bin\Debug\net8.0\GetValueOrDefault().runtimeconfig.json
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\bin\Debug\net8.0\GetValueOrDefault().dll
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\bin\Debug\net8.0\GetValueOrDefault().pdb
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().AssemblyInfoInputs.cache
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().AssemblyInfo.cs
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().csproj.CoreCompileInputs.cache
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().sourcelink.json
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().dll
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\refint\GetValueOrDefault().dll
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().pdb
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\GetValueOrDefault().genruntimeconfig.cache
+C:\Users\india\Source\Repos\professional-dotnet\chapter_02\GetValueOrDefault()\obj\Debug\net8.0\ref\GetValueOrDefault().dll
