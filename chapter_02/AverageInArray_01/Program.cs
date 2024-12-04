@@ -1,4 +1,4 @@
-﻿// Program to Calculate Average In Array in C# with Visual Studio
+﻿// Program to Calculate Average of elements of Array in C# with Visual Studio
 // Programmer: Nikhil Patil
 
 namespace AverageInArray_01
@@ -7,7 +7,8 @@ namespace AverageInArray_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program to Calculate Average In Array in C# with Visual Studio");
+            Console.WriteLine("Program to Calculate Average of elements of Array in C# with Visual Studio\n");
+
             int[] numbers = { 4, 6, 7, 9, 12 };
 
             int sum = 0;
