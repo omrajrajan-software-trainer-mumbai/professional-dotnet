@@ -1,0 +1,15 @@
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\bin\Debug\net8.0\AccessModifiersInNestedClasses_01.exe
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\bin\Debug\net8.0\AccessModifiersInNestedClasses_01.deps.json
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\bin\Debug\net8.0\AccessModifiersInNestedClasses_01.runtimeconfig.json
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\bin\Debug\net8.0\AccessModifiersInNestedClasses_01.dll
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\bin\Debug\net8.0\AccessModifiersInNestedClasses_01.pdb
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.AssemblyInfoInputs.cache
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.AssemblyInfo.cs
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.csproj.CoreCompileInputs.cache
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.sourcelink.json
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.dll
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\refint\AccessModifiersInNestedClasses_01.dll
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.pdb
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\AccessModifiersInNestedClasses_01.genruntimeconfig.cache
+C:\Users\india\source\repos\professional-dotnet\chapter_04\AccessModifiersInNestedClasses_01\obj\Debug\net8.0\ref\AccessModifiersInNestedClasses_01.dll
