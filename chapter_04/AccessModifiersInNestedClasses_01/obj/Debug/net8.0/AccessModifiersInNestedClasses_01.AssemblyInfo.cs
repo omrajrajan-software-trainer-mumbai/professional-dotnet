@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccessModifiersInNestedClasses_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9de128df7255626b13a336abfbcae8c19d7b887")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e9e16f7f15aa9601efb649fdd8af28c0e2225c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccessModifiersInNestedClasses_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccessModifiersInNestedClasses_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
