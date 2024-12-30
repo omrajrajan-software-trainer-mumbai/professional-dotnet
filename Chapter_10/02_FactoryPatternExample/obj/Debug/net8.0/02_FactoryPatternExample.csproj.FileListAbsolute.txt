@@ -1,0 +1,15 @@
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\bin\Debug\net8.0\02_FactoryPatternExample.exe
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\bin\Debug\net8.0\02_FactoryPatternExample.deps.json
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\bin\Debug\net8.0\02_FactoryPatternExample.runtimeconfig.json
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\bin\Debug\net8.0\02_FactoryPatternExample.dll
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\bin\Debug\net8.0\02_FactoryPatternExample.pdb
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.AssemblyInfoInputs.cache
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.AssemblyInfo.cs
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.sourcelink.json
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.dll
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\refint\02_FactoryPatternExample.dll
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.pdb
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\02_FactoryPatternExample.genruntimeconfig.cache
+C:\Users\india\source\repos\professional-dotnet\Chapter_10\02_FactoryPatternExample\obj\Debug\net8.0\ref\02_FactoryPatternExample.dll
