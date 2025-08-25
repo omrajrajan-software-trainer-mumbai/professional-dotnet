@@ -1,5 +1,6 @@
 ﻿// Program to demonstrate Null Coalescing Operator in C# with Visual Studio
 // Programmer: Nikhil Patil
+// Programmer: Kavya Krishnan
 
 namespace NullCoalescingOperator_01
 {
@@ -11,9 +12,10 @@ namespace NullCoalescingOperator_01
             string? name = null;
 
             // Using the null-coalescing operator (??) to provide a default value.
-            string result = name ?? "Nick";
+            string result = name ?? "Kavya";
 
-            Console.WriteLine($"Result: {result}"); // Output: Nick
+            // Output: Kavya
+            Console.WriteLine($"Result: {result}"); 
         }
     }
 }
