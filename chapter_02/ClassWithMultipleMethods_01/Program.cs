@@ -38,13 +38,13 @@ namespace ClassWithMultipleMethods_01
             Console.WriteLine("Program to create Class with Multiple Methods.\n");
 
             // Create an object of the Calculator class
-            Calculator calc = new Calculator();
+            Calculator calculator_reference = new Calculator();
 
             // Call the methods and print the results
-            Console.WriteLine("Addition: " + calc.Add(6, 3));        // Output: 9
-            Console.WriteLine("Subtraction: " + calc.Subtract(6, 3)); // Output: 3
-            Console.WriteLine("Multiplication: " + calc.Multiply(6, 3)); // Output: 18
-            Console.WriteLine("Division: " + calc.Divide(6, 3)); // Output: 2
+            Console.WriteLine("Addition: " + calculator_reference.Add(6, 3));        // Output: 9
+            Console.WriteLine("Subtraction: " + calculator_reference.Subtract(6, 3)); // Output: 3
+            Console.WriteLine("Multiplication: " + calculator_reference.Multiply(6, 3)); // Output: 18
+            Console.WriteLine("Division: " + calculator_reference.Divide(6, 3)); // Output: 2
 
         }
     }
