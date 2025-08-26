@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AverageInArray_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00abcd2bb984eb2421edd9d8cf62d5122c83d16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34ad1f18456bc36ea39298f2c6b7e0de4e87c8bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AverageInArray_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AverageInArray_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
