@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTuplesAsMethodParamete
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWithExpressionForNonDestructiveMutation_01", "UsingWithExpressionForNonDestructiveMutation_01\UsingWithExpressionForNonDestructiveMutation_01.csproj", "{B93D7BB0-CF66-4A68-9319-D7BB592FF826}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments_01", "OptionalArguments_01\OptionalArguments_01.csproj", "{DAD5E6F3-9896-470B-8478-6D6951DC4498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{B93D7BB0-CF66-4A68-9319-D7BB592FF826}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93D7BB0-CF66-4A68-9319-D7BB592FF826}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93D7BB0-CF66-4A68-9319-D7BB592FF826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD5E6F3-9896-470B-8478-6D6951DC4498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD5E6F3-9896-470B-8478-6D6951DC4498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD5E6F3-9896-470B-8478-6D6951DC4498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD5E6F3-9896-470B-8478-6D6951DC4498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

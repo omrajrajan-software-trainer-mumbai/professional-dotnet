@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TupleReturningMultipleValuesFromMethod_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00abcd2bb984eb2421edd9d8cf62d5122c83d16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754e332c9c3c299f6b90e66a044bd637ebb94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TupleReturningMultipleValuesFromMethod_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TupleReturningMultipleValuesFromMethod_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

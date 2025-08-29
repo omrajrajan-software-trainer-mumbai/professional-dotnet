@@ -1,0 +1,15 @@
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.AssemblyInfoInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.AssemblyInfo.cs
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.sourcelink.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\bin\Debug\net8.0\OptionalArguments_01.exe
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\bin\Debug\net8.0\OptionalArguments_01.deps.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\bin\Debug\net8.0\OptionalArguments_01.runtimeconfig.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\bin\Debug\net8.0\OptionalArguments_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\bin\Debug\net8.0\OptionalArguments_01.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\refint\OptionalArguments_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\OptionalArguments_01.genruntimeconfig.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_03\OptionalArguments_01\obj\Debug\net8.0\ref\OptionalArguments_01.dll
