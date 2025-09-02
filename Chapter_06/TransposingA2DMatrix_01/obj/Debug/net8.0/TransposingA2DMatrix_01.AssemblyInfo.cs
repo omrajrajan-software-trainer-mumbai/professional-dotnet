@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransposingA2DMatrix_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9227227d245c4561f0f99b876e179a9aa72aecd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754e332c9c3c299f6b90e66a044bd637ebb94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransposingA2DMatrix_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransposingA2DMatrix_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

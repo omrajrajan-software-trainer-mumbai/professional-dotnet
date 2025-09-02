@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitwiseOperators_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dbf0f61b5340f4a1008be291ff9e9f1b4faa59f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754e332c9c3c299f6b90e66a044bd637ebb94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitwiseOperators_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitwiseOperators_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

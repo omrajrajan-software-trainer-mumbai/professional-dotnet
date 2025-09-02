@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArithmeticOperatorsAndPrecedence_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c9217e4028dd3dbe4ddc38b0019b0c83221b6f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754e332c9c3c299f6b90e66a044bd637ebb94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArithmeticOperatorsAndPrecedence_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArithmeticOperatorsAndPrecedence_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

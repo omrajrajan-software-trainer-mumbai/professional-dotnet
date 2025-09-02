@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvoidingUnnecessaryBoxingWithGenerics_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c59eea2fbcbf36441244f532ac47d2bc52e996")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2754e332c9c3c299f6b90e66a044bd637ebb94b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvoidingUnnecessaryBoxingWithGenerics_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvoidingUnnecessaryBoxingWithGenerics_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
