@@ -9,7 +9,7 @@ namespace DifferenceBetweenRefAndOut_01
         {
             Console.WriteLine("Program to demonstrate difference between Ref and Out in C# with Visual Studio\n");
 
-            int number_1 = 7;
+            int number_1 = 5;
             int number_2;
 
             // Both 'ref' and 'out' are used to pass arguments by reference, but they behave differently.

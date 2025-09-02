@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnumConversionToInteger_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30a9ce64e8e7fb7c6e1eb44b42db8001079d197e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+417f307f1c01758028c93ce7d63ea5f4dc3e39be")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnumConversionToInteger_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnumConversionToInteger_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

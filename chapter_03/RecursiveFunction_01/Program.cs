@@ -17,9 +17,11 @@ namespace RecursiveFunction_01
         // Recursive function to calculate factorial.
         static int Factorial(int number)
         {
+            // Base condition
             if (number <= 0)
                 return 1;
             else
+                // Decremental recursive calling
                 return number * Factorial(number - 1);
         }
     }

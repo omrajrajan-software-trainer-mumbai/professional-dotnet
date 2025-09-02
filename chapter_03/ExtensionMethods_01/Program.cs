@@ -1,5 +1,6 @@
 ﻿// Program to demonstrate the use of extension methods in C# with Visual Studio
 // Programmer: Kavya Krishnan
+
 namespace ExtensionMethods_01
 {
     public static class StringExtensions

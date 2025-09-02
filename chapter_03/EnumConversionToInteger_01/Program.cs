@@ -22,7 +22,7 @@ namespace EnumConversionToInteger_01
             // Assigning an enum value to 'OrderStatus'.
             OrderStatus status = OrderStatus.Shipping;
 
-            // Converting the enum value to its underlying integer.
+            // Explicitly converting the enum value to its underlying integer.
             int status_code = (int)status;
 
             // Displaying the integer value of the enum.
