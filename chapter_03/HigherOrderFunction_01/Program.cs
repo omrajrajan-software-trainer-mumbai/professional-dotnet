@@ -20,7 +20,7 @@ namespace HigherOrderFunction_01
 
         static void ExecuteFunction(Action action)
         {
-            action();
+            action(); // SayHello();
         }
     }
 }
