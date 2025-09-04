@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReturningFunctionFromFunction_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30a9ce64e8e7fb7c6e1eb44b42db8001079d197e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33d8d67709b2dc4ef2b0bb9b4952f5374b524e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReturningFunctionFromFunction_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReturningFunctionFromFunction_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

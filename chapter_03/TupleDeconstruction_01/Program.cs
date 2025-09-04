@@ -1,5 +1,6 @@
 ﻿// Program to demonstrate Tuple Deconstruction in C# with Visual Studio
 // Programmer: Nikhil Patil
+// Programmer: Kavya Krishnan
 
 /*
     Tuple Deconstruction
@@ -14,10 +15,10 @@ namespace TupleDeconstruction_01
         {
             Console.WriteLine("Program to demonstrate Tuple Deconstruction in C# with Visual Studio\n");
 
-            // Create a tuple with three values.
+            // Construct a tuple with three values.
             var product = (1, "Mobile", 40000);
 
-            // Deconstruct the tuple into separate variables.
+            // Deconstruct the tuple into three separate variables.
             var (Id, Name, Price) = product;
 
             // Deconstruct the tuple into separate variables.
