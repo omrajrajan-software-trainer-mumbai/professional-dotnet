@@ -41,14 +41,14 @@ namespace InheritanceWithClasses_01
             Console.WriteLine("Program to demonstrate inheritance with classes in C# with Visual Studio");
 
             // Create a new Rectangle object
-            Rectangle rect = new Rectangle();
+            Rectangle rectangle_object_reference = new Rectangle();
             // Setting values to properties
-            rect.Position.X = 10;
-            rect.Position.Y = 20;
-            rect.Size.Width = 100;
-            rect.Size.Height = 50;
+            rectangle_object_reference.Position.X = 10;
+            rectangle_object_reference.Position.Y = 20;
+            rectangle_object_reference.Size.Width = 100;
+            rectangle_object_reference.Size.Height = 50;
 
-            rect.Draw();
+            rectangle_object_reference.Draw();
         }
     }
 }

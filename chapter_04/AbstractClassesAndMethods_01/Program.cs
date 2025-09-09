@@ -24,13 +24,15 @@ namespace AbstractClassesAndMethods_01
 
         public abstract Shape Clone(); // abstract method
     }
+    
+    // The first non abstract derived class has to include the implementation
     public class Rectangle : Shape
     {
         public void Draw()
         {
             Console.WriteLine($"Drawing Rectangle at ({Position.X},{Position.Y}) with size {Size.Width}x{Size.Height}");
         }
-        // Abstract method Overriden
+        // Abstract method Overriden - Method implementation made mandatory due to abstract keyword for Clone() in Shape - line no.25
         public override Rectangle Clone()
         {
             Rectangle rectangle_object = new();

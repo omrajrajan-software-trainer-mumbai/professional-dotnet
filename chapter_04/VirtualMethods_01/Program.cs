@@ -42,14 +42,14 @@ namespace VirtualMethods_01
             Console.WriteLine("Program to demonstrate overriding with virtual methods in C# with Visual Studio");
 
             // Create a rectangle
-            Shape rect = new Rectangle();
-            rect.Position.X = 10;
-            rect.Position.Y = 20;
-            rect.Size.Width = 100;
-            rect.Size.Height = 50;
+            Shape rectangle_object_reference = new Rectangle();
+            rectangle_object_reference.Position.X = 10;
+            rectangle_object_reference.Position.Y = 20;
+            rectangle_object_reference.Size.Width = 100;
+            rectangle_object_reference.Size.Height = 50;
 
             // Call Draw() on shapes
-            rect.Draw();
+            rectangle_object_reference.Draw();
         }
     }
 }

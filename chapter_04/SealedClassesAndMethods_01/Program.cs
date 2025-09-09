@@ -23,7 +23,7 @@ namespace SealedClassesAndMethods_01
         }
     }
     // Attempting to override will cause a compilation error
-    class DerivedClass : MyClass
+    sealed class DerivedClass : MyClass
     {
         /*
         public override void FinalMethod()   //  Not allowed
@@ -31,6 +31,11 @@ namespace SealedClassesAndMethods_01
             Console.WriteLine("DerivedClass trying to override FinalMethod");
         }
         */
+    }
+    // Cannot Derive from sealed class
+    class CannotDeriveClass : DerivedClass
+    {
+
     }
 
 

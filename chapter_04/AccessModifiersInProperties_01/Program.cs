@@ -1,5 +1,6 @@
 ﻿// Program to demonstrate Access Modifiers In Properties in C# with Visual Studio
 // Programmer: Nikhil Patil
+// Programmer: Kavya Krishnan
 
 namespace AccessModifiersInProperties_01
 {
@@ -34,6 +35,7 @@ namespace AccessModifiersInProperties_01
             Console.WriteLine("Program to demonstrate Access Modifiers In Properties in C# with Visual Studio\n");
 
             Person person = new Person("Tom");
+            // person.Name = "Kavya";
             Console.WriteLine($"Name: {person.Name}"); // Output: Name: Tom
         }
     }
