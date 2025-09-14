@@ -1,6 +1,6 @@
 ﻿// Program to demonstrate the use of predefined interfaces using IComparable<T> in C# with Visual Studio
 // Programmer: Kavya Krishnan
-// Chapter 04 pgno.101
+// Chapter 04 pgno.109
 
 namespace PredefinedInterfaces_01
 {
