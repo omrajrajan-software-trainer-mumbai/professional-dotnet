@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SealedClassesAndMethods_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def42d705c2f1dc010007ebc0bc852206a9ece2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e9228e4dfd66597920365c5ce49c04a3de54b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SealedClassesAndMethods_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SealedClassesAndMethods_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
