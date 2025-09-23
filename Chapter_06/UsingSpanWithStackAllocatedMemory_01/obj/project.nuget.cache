@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "98ns3xAcsX8=",
+  "dgSpecHash": "u6yv9sGQ4Bw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\india\\source\\repos\\professional-dotnet\\Chapter_06\\UsingSpanWithStackAllocatedMemory_01\\UsingSpanWithStackAllocatedMemory_01.csproj",
+  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_06_\\UsingSpanWithStackAllocatedMemory_01\\UsingSpanWithStackAllocatedMemory_01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
