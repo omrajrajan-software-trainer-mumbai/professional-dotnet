@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDelegates_01", "SimpleDelegates_01\SimpleDelegates_01.csproj", "{E108ECE0-CB76-4992-81E8-390BB65A1427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegates_01", "MulticastDelegates_01\MulticastDelegates_01.csproj", "{4DB8A888-7624-4AB7-BC7E-747E7064A380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E108ECE0-CB76-4992-81E8-390BB65A1427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E108ECE0-CB76-4992-81E8-390BB65A1427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E108ECE0-CB76-4992-81E8-390BB65A1427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E108ECE0-CB76-4992-81E8-390BB65A1427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB8A888-7624-4AB7-BC7E-747E7064A380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB8A888-7624-4AB7-BC7E-747E7064A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB8A888-7624-4AB7-BC7E-747E7064A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB8A888-7624-4AB7-BC7E-747E7064A380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABECBF2E-1665-4BA6-9D24-FCF0561CF4C3}
+	EndGlobalSection
+EndGlobal

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IterateThroughCollectionsUsingYield_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c12a4b8fa0302bbea236f94cadfbec6d97476bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e0b13322d5e022d0ec0c779138eee945a2e425f")]
 [assembly: System.Reflection.AssemblyProductAttribute("IterateThroughCollectionsUsingYield_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IterateThroughCollectionsUsingYield_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
