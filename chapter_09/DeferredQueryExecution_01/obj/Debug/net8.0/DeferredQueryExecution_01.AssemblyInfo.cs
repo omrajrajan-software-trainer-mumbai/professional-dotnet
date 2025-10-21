@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeferredQueryExecution_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a9409c6d29f2028bc915d1a5a5b189a6879531")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7641e1da23b6ef045cd5a5940e98eedcfd499739")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeferredQueryExecution_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeferredQueryExecution_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

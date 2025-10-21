@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQwithList_01", "LINQwith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeferredQueryExecution_01", "DeferredQueryExecution_01\DeferredQueryExecution_01.csproj", "{8D4DFD17-D8C0-4EBD-9785-5D62A8F0A7B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQInnerJoin_01", "LINQInnerJoin_01\LINQInnerJoin_01.csproj", "{16788C3F-B1C9-4F1D-B598-DE8EF9D9FC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQLeftOuterJoin_01", "LINQLeftOuterJoin_01\LINQLeftOuterJoin_01.csproj", "{1CAFBD6E-816D-48A8-8E4B-C5983FE7318A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8D4DFD17-D8C0-4EBD-9785-5D62A8F0A7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4DFD17-D8C0-4EBD-9785-5D62A8F0A7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4DFD17-D8C0-4EBD-9785-5D62A8F0A7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16788C3F-B1C9-4F1D-B598-DE8EF9D9FC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16788C3F-B1C9-4F1D-B598-DE8EF9D9FC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16788C3F-B1C9-4F1D-B598-DE8EF9D9FC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16788C3F-B1C9-4F1D-B598-DE8EF9D9FC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAFBD6E-816D-48A8-8E4B-C5983FE7318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAFBD6E-816D-48A8-8E4B-C5983FE7318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAFBD6E-816D-48A8-8E4B-C5983FE7318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAFBD6E-816D-48A8-8E4B-C5983FE7318A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
