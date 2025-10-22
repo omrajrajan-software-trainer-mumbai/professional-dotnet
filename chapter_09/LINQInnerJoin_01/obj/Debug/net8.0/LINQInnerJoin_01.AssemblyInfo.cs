@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQInnerJoin_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7641e1da23b6ef045cd5a5940e98eedcfd499739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ca263b4f3acb34f07794b7ae4192b7a37e9388")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQInnerJoin_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQInnerJoin_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

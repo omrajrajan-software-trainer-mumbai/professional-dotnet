@@ -1,0 +1,15 @@
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\bin\Debug\net8.0\LINQAggregateOperators_01.exe
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\bin\Debug\net8.0\LINQAggregateOperators_01.deps.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\bin\Debug\net8.0\LINQAggregateOperators_01.runtimeconfig.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\bin\Debug\net8.0\LINQAggregateOperators_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\bin\Debug\net8.0\LINQAggregateOperators_01.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.AssemblyInfoInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.AssemblyInfo.cs
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.sourcelink.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\refint\LINQAggregateOperators_01.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\LINQAggregateOperators_01.genruntimeconfig.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_09\LINQAggregateOperators_01\obj\Debug\net8.0\ref\LINQAggregateOperators_01.dll
