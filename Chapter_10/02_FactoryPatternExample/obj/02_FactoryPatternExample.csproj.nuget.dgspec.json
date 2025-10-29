@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj": {}
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj": {
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
+        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
         "projectName": "02_FactoryPatternExample",
-        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
+        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
         "packagesPath": "C:\\Users\\Kavya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\obj\\",
         "projectStyle": "PackageReference",

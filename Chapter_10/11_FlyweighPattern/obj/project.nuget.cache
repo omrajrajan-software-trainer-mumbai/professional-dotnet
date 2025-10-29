@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQPlNW8bcgM=",
+  "dgSpecHash": "zWkZHGiooEU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\11_FlyweighPattern\\11_FlyweighPattern.csproj",
+  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\11_FlyweighPattern\\11_FlyweighPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\08_CompositePattern\\08_CompositePattern.csproj": {}
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\08_CompositePattern\\08_CompositePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\08_CompositePattern\\08_CompositePattern.csproj": {
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\08_CompositePattern\\08_CompositePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\08_CompositePattern\\08_CompositePattern.csproj",
+        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\08_CompositePattern\\08_CompositePattern.csproj",
         "projectName": "08_CompositePattern",
-        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\08_CompositePattern\\08_CompositePattern.csproj",
+        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\08_CompositePattern\\08_CompositePattern.csproj",
         "packagesPath": "C:\\Users\\Kavya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\08_CompositePattern\\obj\\",
         "projectStyle": "PackageReference",

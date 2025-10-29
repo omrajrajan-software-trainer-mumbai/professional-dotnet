@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7AEQRdyfGM=",
+  "dgSpecHash": "h9JCGc1cSRM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\03_BuilderPattern\\03_BuilderPattern.csproj",
+  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\03_BuilderPattern\\03_BuilderPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

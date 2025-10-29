@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\07_BridgePattern\\07_BridgePattern.csproj": {}
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\07_BridgePattern\\07_BridgePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\07_BridgePattern\\07_BridgePattern.csproj": {
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\07_BridgePattern\\07_BridgePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\07_BridgePattern\\07_BridgePattern.csproj",
+        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\07_BridgePattern\\07_BridgePattern.csproj",
         "projectName": "07_BridgePattern",
-        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\07_BridgePattern\\07_BridgePattern.csproj",
+        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\07_BridgePattern\\07_BridgePattern.csproj",
         "packagesPath": "C:\\Users\\Kavya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\07_BridgePattern\\obj\\",
         "projectStyle": "PackageReference",

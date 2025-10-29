@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\10_FacadePattern\\10_FacadePattern.csproj": {}
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\10_FacadePattern\\10_FacadePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\10_FacadePattern\\10_FacadePattern.csproj": {
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\10_FacadePattern\\10_FacadePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\10_FacadePattern\\10_FacadePattern.csproj",
+        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\10_FacadePattern\\10_FacadePattern.csproj",
         "projectName": "10_FacadePattern",
-        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\10_FacadePattern\\10_FacadePattern.csproj",
+        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\10_FacadePattern\\10_FacadePattern.csproj",
         "packagesPath": "C:\\Users\\Kavya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\10_FacadePattern\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj": {}
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj": {
+    "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj",
         "projectName": "13_MultipleCatchBlocks",
-        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj",
+        "projectPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\13_MultipleCatchBlocks\\13_MultipleCatchBlocks.csproj",
         "packagesPath": "C:\\Users\\Kavya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\13_MultipleCatchBlocks\\obj\\",
         "projectStyle": "PackageReference",

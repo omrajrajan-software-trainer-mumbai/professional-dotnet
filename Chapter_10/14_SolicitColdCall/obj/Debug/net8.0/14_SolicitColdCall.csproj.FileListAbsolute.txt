@@ -1,0 +1,15 @@
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\bin\Debug\net8.0\14_SolicitColdCall.exe
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\bin\Debug\net8.0\14_SolicitColdCall.deps.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\bin\Debug\net8.0\14_SolicitColdCall.runtimeconfig.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\bin\Debug\net8.0\14_SolicitColdCall.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\bin\Debug\net8.0\14_SolicitColdCall.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.AssemblyInfoInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.AssemblyInfo.cs
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.csproj.CoreCompileInputs.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.sourcelink.json
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\refint\14_SolicitColdCall.dll
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.pdb
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\14_SolicitColdCall.genruntimeconfig.cache
+C:\Users\Kavya\OneDrive\Documents\coding_work\professional-dotnet\chapter_10\14_SolicitColdCall\obj\Debug\net8.0\ref\14_SolicitColdCall.dll

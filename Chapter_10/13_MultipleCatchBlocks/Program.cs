@@ -14,7 +14,7 @@ namespace _13_MultipleCatchBlocks
                 try
                 {
                     // Prompt the user to enter a number or hit return to exit
-                    Console.Write("Input a number between 0 and 5 or just hit return to exit)> ");
+                    Console.Write("Input a number between 0 and 5 (or just hit return to exit)> ");
                     string? userInput = Console.ReadLine();
 
                     // If the user presses Enter without typing anything, exit the loop

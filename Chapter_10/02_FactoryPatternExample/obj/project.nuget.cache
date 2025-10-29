@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JSE4DTR2dcg=",
+  "dgSpecHash": "5UCtLI93Ic0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\Chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
+  "projectFilePath": "C:\\Users\\Kavya\\OneDrive\\Documents\\coding_work\\professional-dotnet\\chapter_10\\02_FactoryPatternExample\\02_FactoryPatternExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

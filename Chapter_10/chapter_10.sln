@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_FlyweighPattern", "11_Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ProxyPattern", "12_ProxyPattern\12_ProxyPattern.csproj", "{B023BB5C-20FA-D33E-C4A8-B32B937F5EBF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_SolicitColdCall", "14_SolicitColdCall\14_SolicitColdCall.csproj", "{819F070B-FA9E-4D74-A1A5-0F909633734F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{B023BB5C-20FA-D33E-C4A8-B32B937F5EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B023BB5C-20FA-D33E-C4A8-B32B937F5EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B023BB5C-20FA-D33E-C4A8-B32B937F5EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819F070B-FA9E-4D74-A1A5-0F909633734F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819F070B-FA9E-4D74-A1A5-0F909633734F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819F070B-FA9E-4D74-A1A5-0F909633734F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819F070B-FA9E-4D74-A1A5-0F909633734F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
